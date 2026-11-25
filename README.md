@@ -96,4 +96,3 @@ src/
 - [Thymeleaf](https://www.thymeleaf.org/documentation.html)
 - [Bootstrap 5](https://getbootstrap.com/docs/5.3/)
 
-## Auteur
