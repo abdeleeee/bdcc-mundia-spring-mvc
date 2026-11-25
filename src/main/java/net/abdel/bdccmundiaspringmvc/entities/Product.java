@@ -1,4 +1,4 @@
-package net.ayman.bdccmundiaspringmvc.entities;
+package net.abdel.bdccmundiaspringmvc.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

@@ -1,4 +1,4 @@
-package net.ayman.bdccmundiaspringmvc.sec;
+package net.abdel.bdccmundiaspringmvc.sec;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package net.ayman.bdccmundiaspringmvc;
+package net.abdel.bdccmundiaspringmvc;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

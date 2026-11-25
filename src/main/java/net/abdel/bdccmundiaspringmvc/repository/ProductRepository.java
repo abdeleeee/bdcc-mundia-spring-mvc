@@ -1,6 +1,6 @@
-package net.ayman.bdccmundiaspringmvc.repository;
+package net.abdel.bdccmundiaspringmvc.repository;
 
-import net.ayman.bdccmundiaspringmvc.entities.Product;
+import net.abdel.bdccmundiaspringmvc.entities.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProductRepository extends JpaRepository<Product, Long> {

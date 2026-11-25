@@ -1,7 +1,7 @@
-package net.ayman.bdccmundiaspringmvc;
+package net.abdel.bdccmundiaspringmvc;
 
-import net.ayman.bdccmundiaspringmvc.entities.Product;
-import net.ayman.bdccmundiaspringmvc.repository.ProductRepository;
+import net.abdel.bdccmundiaspringmvc.entities.Product;
+import net.abdel.bdccmundiaspringmvc.repository.ProductRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

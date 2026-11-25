@@ -1,10 +1,10 @@
-package net.ayman.bdccmundiaspringmvc.web;
+package net.abdel.bdccmundiaspringmvc.web;
 
 
 import jakarta.servlet.http.HttpSession;
 import jakarta.validation.Valid;
-import net.ayman.bdccmundiaspringmvc.entities.Product;
-import net.ayman.bdccmundiaspringmvc.repository.ProductRepository;
+import net.abdel.bdccmundiaspringmvc.entities.Product;
+import net.abdel.bdccmundiaspringmvc.repository.ProductRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.stereotype.Controller;
