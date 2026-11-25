@@ -80,7 +80,7 @@ Adaptez le nom de la base et les identifiants à votre environnement.
 ```
 src/
 ├── main/
-│   ├── java/net/ayman/...      # Code source (contrôleurs, entités, repositories, sécurité)
+│   ├── java/net/abdel/...      # Code source (contrôleurs, entités, repositories, sécurité)
 │   └── resources/
 │       ├── templates/          # Vues Thymeleaf
 │       ├── static/             # Ressources statiques
@@ -97,5 +97,3 @@ src/
 - [Bootstrap 5](https://getbootstrap.com/docs/5.3/)
 
 ## Auteur
-
-Ayman — `net.ayman`
